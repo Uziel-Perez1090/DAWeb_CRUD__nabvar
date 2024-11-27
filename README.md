@@ -5,7 +5,7 @@ CRUD de varias app de inmobilaria en django Python
 # Aplicacion Empleado
 ![image](https://github.com/user-attachments/assets/008c9e8a-9df7-442e-9e98-095287bc350e)
 # Editar Empleado
-![image](https://github.com/user-attachments/assets/e63004a8-b0fb-48ef-8dbd-c1da0c22dcaa)
+![image](https://github.com/user-attachments/assets/fcdc8f98-cb2b-43f5-9c05-c71b4acc4177)
 # Aplicacion Proveedores
 ![image](https://github.com/user-attachments/assets/cbebf179-09b1-4074-93f2-9a75861ebe92)
 # Editar Provedores
